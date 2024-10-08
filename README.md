@@ -1,6 +1,6 @@
 # Hi, I'm Yangwenyu (Yara)! 👋
 
-I'm a Data Analytics graduate student at Northeastern University with a strong background in machine learning and data analytics. I have hands-on experience working on projects in healthcare and e-commerce, leveraging data to drive insights and optimize decision-making. My expertise spans machine learning, data visualization, and database management.
+I'm a Data Analytics Engineering graduate student at Northeastern University with a strong background in machine learning and data analytics. I have hands-on experience working on projects in healthcare and e-commerce, leveraging data to drive insights and optimize decision-making. My expertise spans machine learning, data visualization, and database management.
 
 ---
 
