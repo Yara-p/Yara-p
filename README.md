@@ -1,6 +1,6 @@
 # Hi, I'm Yangwenyu (Yara)! 👋
 
-I'm a Data Analytics Engineering graduate student at Northeastern University with experience as a Business Research Analyst and in healthcare and e-commerce projects. I specialize in leveraging data for insights and decision-making, with expertise in machine learning, data visualization, and database management.
+I’m a Data Analytics Engineering graduate student at Northeastern University with experience as a Business Research Analyst and in healthcare and e-commerce projects. I specialize in leveraging data for insights and decision-making, with expertise in machine learning, data visualization, and database management.
 
 ---
 
@@ -24,7 +24,6 @@ I'm a Data Analytics Engineering graduate student at Northeastern University wit
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
-
 **Data Visualization:**
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
 ![Flourish](https://img.shields.io/badge/-Flourish-5B67F4?logo=datawrapper&logoColor=white)
@@ -41,3 +40,4 @@ I'm a Data Analytics Engineering graduate student at Northeastern University wit
 
 ## 📫 CONTACT:
 - **LinkedIn:** [Yangwenyu (Yara) Peng](https://www.linkedin.com/in/yarap)
+
