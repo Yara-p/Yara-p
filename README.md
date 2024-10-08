@@ -5,9 +5,9 @@ I’m a Data Analytics Engineering graduate student at Northeastern University w
 ---
 
 ## 🎓 EDUCATION:
-- **Master of Science in Data Analytics Engineering** | Northeastern University, Boston | *Expected May 2025*
-- **Master of Finance** | The University of Melbourne | *Dec 2019*
-- **Bachelor of Commerce (Accounting and Finance)** | The University of Melbourne | *Dec 2017*
+- **Master of Science in Data Analytics Engineering** at Northeastern University | *Expected May 2025*
+- **Master of Finance** at The University of Melbourne | *Dec 2019*
+- **Bachelor of Commerce (Accounting and Finance)** at The University of Melbourne | *Dec 2017*
 
 ---
 
