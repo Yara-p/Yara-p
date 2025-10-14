@@ -21,8 +21,6 @@ I’m a Data Analytics Engineering graduate student at Northeastern University w
 ![VBA](https://img.shields.io/badge/-VBA-217346?logo=microsoft-excel&logoColor=white)
 
 **Data Science & Machine Learning:**
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
